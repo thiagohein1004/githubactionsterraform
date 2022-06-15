@@ -1,0 +1,3 @@
+Inserir credenciais
+Settings -> Secrets -> Adicionar
+iNSIRA TAMBÉM AS CHAVES PUBLICAS, SOMENTE O CONTEÚDO
